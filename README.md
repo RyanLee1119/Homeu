@@ -1,7 +1,8 @@
+## Welcome to Homeu Pages
+
+A platform to connect landlord and tenant
 
 
-## Welcome to Homeu Beta
+### Support or Contact
 
-Here we want to build a great app to let you say mew mew mew!
-
-### Coming soon...
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -1,4 +1,4 @@
-## Welcome to Homeu Pages
+## Welcome to Homeu
 
 A platform to connect landlord and tenant
 

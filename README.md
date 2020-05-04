@@ -2,6 +2,8 @@
 
 A platform to connect landlord and tenant
 
+<img src="assets/AppStore1_1242x2208.jpg" alt="hi" class="inline"/>
+<img src="assets/AppStore2_1242x2208.jpg" alt="hi" class="inline"/>
 
 ### Support or Contact
 
